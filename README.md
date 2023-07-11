@@ -1,2 +1,2 @@
 # react-xlsx-parser
-ReactJS Parser application
+ReactJS Parser for Excel Tables into markup by drag-n-drop
